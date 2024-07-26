@@ -13,29 +13,30 @@
     "description": "A Fully responsive task manager app where user can create, delete, add more tasks as well as change the status of the task...",
     "skills": ["NextJs", "MongoDb"],
     "demo": "https://task-manager-2-o.vercel.app/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/PatelHett/Task-Manager"
   },
   {
     "title": "Lost & Found",
     "imageSrc": "projects/LostFound.png",
-    "description": "This is a project made to learn the latest languages by building an app...",
-    "skills": ["React", "Express", "Node","MongoDb"],
+    "description": "Here users can add and locate lost items, enabling them to find their important belongings easily...",
+    "skills": ["React", "Express", "Node", "MongoDb"],
     "demo": "https://lost-found-kappa.vercel.app/",
-    "source": "https://www.github.com"
+    "source": "https://lost-found-kappa.vercel.app/"
   },
   {
     "title": "Blog App",
     "imageSrc": "projects/blog.png",
-    "description": "This is a project made to learn the latest languages by building an app...",
+    "description": "Here Users can create, manage, and read blog posts, with secure authentication managed using JWT for personalized and secure access...",
     "skills": ["React", "Express", "Node", "MongoDb"],
-    "demo": "https://github.com/PatelHett/Blog_App"
+    "demo": "https://github.com/PatelHett/Blog_App",
+    "source": "https://github.com/PatelHett/Blog_App"
   },
   {
     "title": "Personal Presence",
-    "imageSrc": "projects/LostFound.png",
-    "description": "This is a project made to learn the latest languages by building an app...",
+    "imageSrc": "projects/Portfolio.png",
+    "description": "This site showcases projects and skills providing a professional and interactive platform for potential employers and collaborators to explore my work....",
     "skills": ["React"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://port-folioo-mu.vercel.app/",
+    "source": "https://github.com/PatelHett/PortFolioo"
   }
 ]

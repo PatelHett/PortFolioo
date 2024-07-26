@@ -17,7 +17,7 @@
   },
   {
     "title": "Express js",
-    "imageSrc": "skills/express.jpg"
+    "imageSrc": "skills/express.png"
   },
   {
     "title": "MongoDB",
@@ -25,18 +25,18 @@
   },
   {
     "title": "Next js",
-    "imageSrc": "skills/nextjs.jpg"
+    "imageSrc": "skills/nextjs.svg"
   },
   {
     "title": "Docker",
-    "imageSrc": "skills/docker.jpg"
+    "imageSrc": "skills/docker.png"
   },
   {
     "title": "Jenkins",
-    "imageSrc": "skills/Jenkins.jpg"
+    "imageSrc": "skills/Jenkins.png"
   },
   {
     "title": "github",
-    "imageSrc": "skills/github.jpg"
+    "imageSrc": "skills/github.png"
   }
 ]
