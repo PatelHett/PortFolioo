@@ -38,5 +38,13 @@
     "skills": ["React"],
     "demo": "https://port-folioo-mu.vercel.app/",
     "source": "https://github.com/PatelHett/PortFolioo"
+  },
+  {
+    "title": "Thread App",
+    "imageSrc": "projects/Thread.png",
+    "description": "A Fullstack Social Media Application which lets you post threads, like threads, comment on threads see other users profiles as well as get notifications and you can share post also....",
+    "skills": ["TypeScript", "Prisma", "NextJs", "Postgresql"],
+    "demo": "https://github.com/PatelHett/Social-Media-Thread",
+    "source": "https://github.com/PatelHett/Social-Media-Thread"
   }
 ]
