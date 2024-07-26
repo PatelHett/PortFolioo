@@ -1,0 +1,41 @@
+[
+  {
+    "title": "LinkedIn",
+    "imageSrc": "projects/LinkedIn.png",
+    "description": "A Fullstack Social Media Application which lets you create post, like LinkedIn, you can comment on that post and like also...",
+    "skills": ["NextJs", "TypeScript", "MongoDb"],
+    "demo": "https://linked-in-1.vercel.app/",
+    "source": "https://github.com/PatelHett/LinkedIn"
+  },
+  {
+    "title": "Task Manager",
+    "imageSrc": "projects/TaskManager.png",
+    "description": "A Fully responsive task manager app where user can create, delete, add more tasks as well as change the status of the task...",
+    "skills": ["NextJs", "MongoDb"],
+    "demo": "https://task-manager-2-o.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Lost & Found",
+    "imageSrc": "projects/LostFound.png",
+    "description": "This is a project made to learn the latest languages by building an app...",
+    "skills": ["React", "Express", "Node","MongoDb"],
+    "demo": "https://lost-found-kappa.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Blog App",
+    "imageSrc": "projects/blog.png",
+    "description": "This is a project made to learn the latest languages by building an app...",
+    "skills": ["React", "Express", "Node", "MongoDb"],
+    "demo": "https://github.com/PatelHett/Blog_App"
+  },
+  {
+    "title": "Personal Presence",
+    "imageSrc": "projects/LostFound.png",
+    "description": "This is a project made to learn the latest languages by building an app...",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
